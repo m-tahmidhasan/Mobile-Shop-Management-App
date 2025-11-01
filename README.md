@@ -7,13 +7,13 @@ It automates the daily operations of a mobile phone shop — including managing 
 
 ## 🚀 Features
 
-- 🔐 **Login System** – Secure access for Admin and Employees  
-- 👥 **Customer Management** – Add, update, or remove customer records  
-- 👨‍💼 **Employee Management** – Maintain employee profiles and permissions  
-- 📱 **Mobile Inventory** – Add, edit, or delete mobile phone entries  
-- 💰 **Sales Management** – Record sales, generate bills, and track transactions  
-- 📊 **Admin Dashboard** – View business metrics and overall performance  
-- 🧾 **Data Storage** – Centralized database for all records  
+🔐 **Login System** – Secure access for Admin and Employees  
+👥 **Customer Management** – Add, update, or remove customer records  
+👨‍💼 **Employee Management** – Maintain employee profiles and permissions  
+📱 **Mobile Inventory** – Add, edit, or delete mobile phone entries  
+💰 **Sales Management** – Record sales, generate bills, and track transactions  
+📊 **Admin Dashboard** – View business metrics and overall performance  
+🧾 **Data Storage** – Centralized database for all records  
 
 ---
 
